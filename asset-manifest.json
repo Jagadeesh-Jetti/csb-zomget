@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-zomget/static/css/main.1b721564.chunk.css",
+    "main.js": "https://.github.io/csb-zomget/static/js/main.8c988d46.chunk.js",
+    "main.js.map": "https://.github.io/csb-zomget/static/js/main.8c988d46.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-zomget/static/js/runtime-main.bc9eb019.js",
+    "runtime-main.js.map": "https://.github.io/csb-zomget/static/js/runtime-main.bc9eb019.js.map",
+    "static/js/2.d9d8e052.chunk.js": "https://.github.io/csb-zomget/static/js/2.d9d8e052.chunk.js",
+    "static/js/2.d9d8e052.chunk.js.map": "https://.github.io/csb-zomget/static/js/2.d9d8e052.chunk.js.map",
+    "index.html": "https://.github.io/csb-zomget/index.html",
+    "static/css/main.1b721564.chunk.css.map": "https://.github.io/csb-zomget/static/css/main.1b721564.chunk.css.map",
+    "static/js/2.d9d8e052.chunk.js.LICENSE.txt": "https://.github.io/csb-zomget/static/js/2.d9d8e052.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc9eb019.js",
+    "static/js/2.d9d8e052.chunk.js",
+    "static/css/main.1b721564.chunk.css",
+    "static/js/main.8c988d46.chunk.js"
+  ]
+}
